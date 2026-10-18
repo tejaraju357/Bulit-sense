@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'BUILTSENSE [TITANIUM] — Predictive Building Intelligence',
+  title: 'BUILTSENSE — Predictive Building Intelligence',
   description: 'Your building’s next 5 years of repairs, predicted today. Multi-disciplinary engineering audits and predictive capital expenditure planning for housing societies.',
 };
 
